@@ -27,4 +27,4 @@ Easy to setup up WORKING moderation bot.
 
 # Issues, suggestions, recommendations
 
-If you have any issues, suggestions, or recommendations for this or another bot contact me directly by DMing me (Germ#6285).
+If you have any issues, suggestions, or recommendations for this or another bot contact me directly by DMing me (changing).
